@@ -6,7 +6,7 @@ A simple shooting game using pygame: the very first game I made.
 
 ## How to play
 
-Press the spacebar to kill cute Boos. 
+Move Mario with `arrow keys`, and press the `spacebar` to kill cute Boos. 
 
 <br><br>
 
