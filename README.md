@@ -1,4 +1,4 @@
-# AttaBooi👻
+# AttaBooi!!👻
 
 A simple shooting game using pygame: the very first game I made.
 
