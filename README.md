@@ -11,4 +11,5 @@ Press the spacebar to kill cute Boos.
 <br><br>
 
 
-![play](https://user-images.githubusercontent.com/99746319/165692587-6ae06991-1b2b-44c9-aec3-1256039b18cc.gif)
+
+![play](https://user-images.githubusercontent.com/99746319/165692700-99d08dc4-3c17-475b-a71c-c3be5daf5c1e.gif)
